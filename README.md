@@ -1,6 +1,7 @@
 <p align="center">
-<img src="[https://i.imgur.com/iZCwFPz.gif](https://media.discordapp.net/attachments/992769086859780156/992795196779659314/unknown.png)" />
+<img src="https://media.discordapp.net/attachments/992769086859780156/992795196779659314/unknown.png" />
 </p>
+
 
 <p><strong>About</strong></p>
 <p>Greetings, I'm Micro, I live in Turkey/İstanbul, I worked in upper-limit companies before, and then I founded my own company..</p>
