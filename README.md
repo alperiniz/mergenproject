@@ -9,4 +9,4 @@
 
 <p><strong>Contact</strong></p>
 <p>Discord : Micro Hazretleri#0001</p>
-<p>Discord : Domaltazor#3169</p>
+<p>Discord : X(F)#3169</p>
